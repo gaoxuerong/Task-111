@@ -1,0 +1,18 @@
+{
+  "name": "beer",
+  "version": "1.0.0",
+  "description": "...",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine && exit 1"
+  },
+  "keywords": [
+    "beer"
+  ],
+  "author": "gxr",
+  "license": "ISC",
+  "dependencies": {
+    "jasmine": "^2.8.0"
+  },
+  "devDependencies": {}
+}
